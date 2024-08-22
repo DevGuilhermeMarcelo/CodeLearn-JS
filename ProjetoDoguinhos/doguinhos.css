@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#Doguinhos {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+#gerarOutro {
+    background-color: rgb(169, 91, 241);
+    color: rgb(3, 3, 3);
+    font-size: 15px;
+    letter-spacing: 3px;
+    height: 50px;
+    cursor: pointer;
+}
